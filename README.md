@@ -30,6 +30,13 @@
 ## Dashboard
 <a href="https://github.com/shoninel/HR-Dashboard-/blob/main/HR%20Dashboard.twbx"> HR Dashboard </a>
 
+## HR Dashboard | Overview
+![HR Summary](https://github.com/user-attachments/assets/e6f4e4e2-c177-455b-b41b-2495d5f04685)
+
+## HR Dashboard | Details
+![HR  Details](https://github.com/user-attachments/assets/711c0a3a-3a1f-47b0-a5ee-9e42fdabe9e8)
+
+
 
 
 
