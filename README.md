@@ -3,11 +3,11 @@
 -	A comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
 # Summary View:
 -	Overview-
-   - Display the total number of hired, active and terminated employees.
-   - Visualize it over the years.
-   - Visualize the breakdown of total employees by department and job titles.
-   - Compare total employees between headquarters (HQ) and branches 
-   - State and city wise analysis.
+   -  Display the total number of hired, active and terminated employees.
+   -  Visualize it over the years.
+   -  Visualize the breakdown of total employees by department and job titles.
+   -  Compare total employees between headquarters (HQ) and branches 
+   -  State and city wise analysis.
 - Demographics-
   -  should offer insights into the composition of the workforce, including:
   - Present the gender ratio in the company.
