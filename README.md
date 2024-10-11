@@ -20,11 +20,11 @@
   - Users should be able to filter the list based on any of the available columns.
 
 ## Steps involved:
--Verified data for any missing values and anomalies, and handled the missing values
--Ensured that data is consistent and clean with respect to data type data format and values used
--Created calculated columns to get a desirable dimensions and measures
--Created KPIs and multilple charts
--Created dashboards, added filters and interactive actions in Dashboard to develop interactive and dynamic dashboard to offer insights as per the user story.
+- Verified data for any missing values and anomalies, and handled the missing values
+- Ensured that data is consistent and clean with respect to data type data format and values used
+- Created multiple calculated columns to get a desirable dimensions and measures
+- Created KPIs and multilple charts
+- Created dashboards, added filters and interactive actions in Dashboard to develop interactive and dynamic dashboard to offer insights as per the user story.
 ## Dashboard
 
 
