@@ -28,7 +28,7 @@
 - Created KPIs and multilple charts
 - Created dashboards, added filters and interactive actions in Dashboard to develop interactive and dynamic dashboard to offer insights as per the user story.
 ## Dashboard
-
+<a href="https://github.com/shoninel/HR-Dashboard-/blob/main/HR%20Dashboard.twbx"> HR Dashboard </a>
 
 
 
