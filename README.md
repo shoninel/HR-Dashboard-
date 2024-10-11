@@ -9,7 +9,7 @@
    - Compare total employees between headquarters (HQ) and branches 
    - State and city wise analysis.
 - Demographics-
-  - should offer insights into the composition of the workforce, including:
+  -  should offer insights into the composition of the workforce, including:
   - Present the gender ratio in the company.
   - Visualize the distribution of employees across age groups and education levels.
   - Show the total number of employees within each age group and within each education level.
