@@ -2,7 +2,7 @@
 # User Story:
 -	A comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
 # Summary View:
--	Overview-
+- Overview-
    -  Display the total number of hired, active and terminated employees.
    -  Visualize it over the years.
    -  Visualize the breakdown of total employees by department and job titles.
