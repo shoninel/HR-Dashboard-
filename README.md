@@ -18,6 +18,8 @@
 - Employee Records View
   - Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
   - Users should be able to filter the list based on any of the available columns.
+## Dataset used
+<a href="https://github.com/shoninel/HR-Dashboard-/blob/main/HumanResources.csv"> Dataset used </a>
 
 ## Steps involved:
 - Verified data for any missing values and anomalies, and handled the missing values
